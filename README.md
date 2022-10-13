@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
-<h3 align="center">A passionate learner from India (Cyber-security, Hacking,</h3>
+<h3 align="center">A passionate learner from India (Cyber-security, Hacking, Linux)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhero337" alt="iamhero337" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://thedarkthemeboy.com/](https://thedarkthemeboy.com/)
 
-- 💬 Ask me about **C, Ethical Hacking and LINUX(any OS or with any problem)**
+- 💬 Ask me about **C, Ethical Hacking and LINUX(any OS with any problem)**
 
 - 📫 How to reach me **iamhero337@gmail.com**
 
