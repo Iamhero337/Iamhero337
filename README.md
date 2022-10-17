@@ -31,7 +31,17 @@
 
 
 <h3 align="left">Github Stats:</h3>
+
+<br>
+
+<p align="left">
+
+<img width="500" src="https://metrics.lecoq.io/iamhero337" alt="Github Metrics">
+  
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhero337" alt="iamhero337" /></a> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhero337&show_icons=true&locale=en" alt="iamhero337" /></p>
 
 
@@ -57,5 +67,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iamhero337"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamhero337" /></a></p><br><br>
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=iamhero337" alt="iamhero337"/> </p>  </p>
+<br>
 
 
