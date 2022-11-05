@@ -56,7 +56,7 @@
 <a href="https://twitter.com/iamhero337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhero337" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamhero337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhero337" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhero337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhero337" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the dark theme boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the dark theme boy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thedarkthemeboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the dark theme boy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools(Which either I am learning or expert at):</h3>
