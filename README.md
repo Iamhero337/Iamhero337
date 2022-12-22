@@ -32,8 +32,22 @@
 
 <h3 align="left">Github Stats:</h3>
 
+<div align="left">
 
+<img width="500" src="https://metrics.lecoq.io/iamhero337" alt="Github Metrics">
+ 
+</div>    
+  
+    
+<div align="left">
+ 
+<img src='https://github-readme-stats.vercel.app/api?username=iamhero337&theme=merko' width="400"/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=iamhero337&theme=merko' width="400"/>
+  
+</div>
 
+ <br>
+ 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iamhero337&column=7"/>
   </a>
@@ -42,12 +56,10 @@
 
 <p align="left">
 
-<img width="500" src="https://metrics.lecoq.io/iamhero337" alt="Github Metrics">
-  
 <br>
+    
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhero337&show_icons=true&locale=en" alt="iamhero337" /></p>
+    
 
 
 
