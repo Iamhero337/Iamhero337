@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://thedarkthemeboy.com/](https://thedarkthemeboy.com/)
 
-- 💬 Ask me about **C, Ethical Hacking and LINUX(any OS with any problem)**
+- 💬 Ask me about **Ethical Hacking and LINUX(any OS with any problem)**
 
 - 📫 How to reach me **iamhero337@gmail.com**
 
