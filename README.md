@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Learn-C](https://github.com/Iamhero337/learn-C)
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/Iamhero337)
+- 👨‍💻 All of my projects are available at [This Github](https://github.com/Iamhero337)
 
 - 📝 I regularly write articles on [MY Blog](https://thedarkthemeboy.com/)
 
