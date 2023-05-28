@@ -13,15 +13,13 @@
 
 - 🤝 I’m looking for help with [Learn-C](https://github.com/Iamhero337/learn-C)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Iamhero337](https://github.com/Iamhero337)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Iamhero337)
 
-- 📝 I regularly write articles on [https://thedarkthemeboy.com/](https://thedarkthemeboy.com/)
+- 📝 I regularly write articles on [MY Blog](https://thedarkthemeboy.com/)
 
 - 💬 Ask me about **Ethical Hacking and LINUX(any OS with any problem)**
 
-- 📫 How to reach me **iamhero337@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/iamhero337/](https://www.linkedin.com/in/iamhero337/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/iamhero337/)
 
 - ⚡ Fun fact **Old games are more better then the new ones | Change my mind!**
 
