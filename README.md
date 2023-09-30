@@ -35,6 +35,7 @@
 <img width="500" src="https://metrics.lecoq.io/iamhero337" alt="Github Metrics">
  
 </div>    
+
   
     
 <div align="left">
@@ -43,6 +44,10 @@
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=iamhero337&theme=merko' width="400"/>
   
 </div>
+
+<br>
+
+[![An image of @iamhero337's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamhero337)](https://holopin.io/@iamhero337)
 
  <br>
  
