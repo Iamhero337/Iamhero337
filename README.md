@@ -38,12 +38,11 @@
 
   
     
-<div flex="Center">
- 
-<img src='https://github-readme-stats.vercel.app/api?username=iamhero337&theme=merko' width=""/>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=iamhero337&theme=merko' width=""/>
-  
+<div style="display: flex; flex-direction: row;">
+    <img src='https://github-readme-stats.vercel.app/api?username=iamhero337&theme=merko' width=""/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=iamhero337&theme=merko' width=""/>
 </div>
+
 
 <br>
 
