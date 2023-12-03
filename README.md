@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">A passionate learner from India (Cyber-security, Hacking, Linux)</h3>
 
-
-
 <p align="left"> <a href="https://twitter.com/iamhero337" target="blank"><img src="https://img.shields.io/twitter/follow/iamhero337?logo=twitter&style=for-the-badge" alt="iamhero337" /></a> </p>
 
 - 🔭 I’m currently working on **Myself**.
@@ -21,12 +19,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/iamhero337/)
 
-- ⚡ Fun fact **Old games are more better then the new ones | Change my mind!**
-
-
-
-
-
+- ⚡ Fun fact **Old games are more better than the new ones | Change my mind!**
 
 <h3 align="left">Github Stats:</h3>
 
@@ -34,15 +27,12 @@
 
 <img width="500" src="https://metrics.lecoq.io/iamhero337" alt="Github Metrics">
  
-</div>    
+</div>
 
-  
-    
 <div style="display: flex; flex-direction: row;">
     <img src='https://github-readme-stats.vercel.app/api?username=iamhero337&theme=merko' width=""/>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=iamhero337&theme=merko' width=""/>
 </div>
-
 
 <br>
 
@@ -59,10 +49,6 @@
 <p align="left">
 
 <br>
-    
-
-    
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -82,5 +68,3 @@
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=iamhero337" alt="iamhero337"/> </p>  </p>
 <br>
-
-
