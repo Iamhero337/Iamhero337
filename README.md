@@ -95,16 +95,14 @@ A real-time security and system health monitor built for Linux. Tracks threats, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhero337&theme=merko&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamhero337&theme=github_dark" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=iamhero337&theme=merko&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamhero337&column=7&theme=onedark&no-frame=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamhero337&theme=merko&hide_border=true&area=true" width="96%" />
 </div>
 
 ---
