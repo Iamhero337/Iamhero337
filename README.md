@@ -2,9 +2,18 @@
 <h3 align="center">Builder · Linux Hacker · Cybersecurity Enthusiast · India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/iamhero337"><img src="https://img.shields.io/twitter/follow/iamhero337?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/iamhero337"><img src="https://img.shields.io/badge/LinkedIn-iamhero337-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://thedarkthemeboy.com/"><img src="https://img.shields.io/badge/Blog-thedarkthemeboy.com-orange?style=for-the-badge&logo=rss" /></a>
+  <a href="https://twitter.com/iamhero337">
+    <img src="https://img.shields.io/badge/X-@iamhero337-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/iamhero337">
+    <img src="https://img.shields.io/badge/LinkedIn-iamhero337-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/iamhero337">
+    <img src="https://img.shields.io/badge/Instagram-@iamhero337-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@thedarkthemeboy">
+    <img src="https://img.shields.io/badge/YouTube-TheDarkThemeBoy-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
@@ -20,9 +29,9 @@
 
 Scrapes roles from 10+ job sources, scores them against your profile, and generates **ATS-optimized resumes (95–100/100) + cover letters** tailored per role — all from a single master profile. Ships with a Kanban dashboard, Telegram mobile intake, and supports Groq / Claude / Gemini / local LLMs.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Groq%20%7C%20Claude%20%7C%20Local-green)
-![Flask](https://img.shields.io/badge/Dashboard-Flask-lightgrey?logo=flask)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Groq%20%7C%20Claude%20%7C%20Local-10B981?style=flat-square)
+![Flask](https://img.shields.io/badge/Dashboard-Flask-000000?style=flat-square&logo=flask)
 
 > 7 role-specific resume variants · Smart scraper · Offline ATS scorer
 
@@ -34,10 +43,9 @@ Scrapes roles from 10+ job sources, scores them against your profile, and genera
 
 Hold a hotkey, speak, release — your words appear at the cursor in any app. Works on **Wayland + X11** using OpenAI Whisper offline, `evdev` for global hotkeys, and `ydotool` for keystroke injection. The Linux answer to Windows `Win+H`.
 
-![Linux](https://img.shields.io/badge/platform-Linux-blue?logo=linux)
-![Wayland](https://img.shields.io/badge/display-Wayland%20%7C%20X11-blueviolet)
-![Offline](https://img.shields.io/badge/Whisper-100%25%20offline-orange)
-![MIT](https://img.shields.io/badge/License-MIT-green)
+![Linux](https://img.shields.io/badge/Linux-Wayland%20%7C%20X11-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Offline](https://img.shields.io/badge/Whisper-100%25%20Offline-F97316?style=flat-square)
+![MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
 > Hold Right‑Ctrl → speak → release → text appears
 
@@ -51,8 +59,8 @@ Hold a hotkey, speak, release — your words appear at the cursor in any app. Wo
 
 A custom Android WebView app that strips all ads at the network level, unlocks on-demand playback, unlimited skips, background play, and serves the full desktop feature set on mobile. Just log in with your existing account.
 
-![Android](https://img.shields.io/badge/Android-APK-green?logo=android)
-![Kotlin](https://img.shields.io/badge/Built%20with-Kotlin-purple?logo=kotlin)
+![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 > Zero ads · No shuffle lock · Background play · Free account
 
@@ -64,8 +72,8 @@ A custom Android WebView app that strips all ads at the network level, unlocks o
 
 A real-time security and system health monitor built for Linux. Tracks threats, anomalies, and system state from one dashboard.
 
-![Linux](https://img.shields.io/badge/platform-Linux-blue?logo=linux)
-![Status](https://img.shields.io/badge/status-WIP-yellow)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Status](https://img.shields.io/badge/Status-WIP-EAB308?style=flat-square)
 
 > Security dashboard · System monitoring · Linux-native
 
@@ -80,7 +88,6 @@ A real-time security and system health monitor built for Linux. Tracks threats, 
 - 🔭 Currently shipping **[GetMeAJob](https://github.com/Iamhero337/Getmeajob)**, **[Typefree](https://github.com/Iamhero337/typefree)** & **[TheSpotify](https://github.com/Iamhero337/TheSpotify)**
 - 🌱 Learning **Python, AI/LLM integration, Linux internals, Cybersecurity**
 - 💬 Ask me about **Ethical Hacking, Linux (any distro, any problem), and building AI tools**
-- 📝 I write at **[thedarkthemeboy.com](https://thedarkthemeboy.com/)**
 - ⚡ Hot take: **Old games are better than new ones — change my mind**
 
 ---
@@ -88,27 +95,15 @@ A real-time security and system health monitor built for Linux. Tracks threats, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/iamhero337" alt="Github Metrics" width="500" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhero337&theme=merko&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhero337&theme=merko" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhero337&theme=merko&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=iamhero337&theme=merko&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamhero337&column=7&theme=onedark" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://holopin.io/@iamhero337">
-    <img src="https://holopin.me/iamhero337" alt="Holopin badges" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iamhero337&column=7&theme=onedark&no-frame=true" />
   </a>
 </div>
 
@@ -116,42 +111,34 @@ A real-time security and system health monitor built for Linux. Tracks threats, 
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,c,cpp,java,kotlin,android&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,git,html,css,aws,gcp,azure,figma&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=arduino,blender,heroku,flask&theme=dark" />
 </p>
 
 ---
 
 ## 🤝 Connect
 
-<p align="left">
-  <a href="https://twitter.com/iamhero337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhero337" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/iamhero337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhero337" height="30" width="40" /></a>
-  <a href="https://instagram.com/iamhero337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhero337" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@thedarkthemeboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the dark theme boy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/iamhero337" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter / X" width="40" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/iamhero337" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href="https://instagram.com/iamhero337" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@thedarkthemeboy" target="blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://www.buymeacoffee.com/iamhero337">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
@@ -160,5 +147,5 @@ A real-time security and system health monitor built for Linux. Tracks threats, 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamhero337&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iamhero337&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
